@@ -21,10 +21,10 @@ Features:-
 		Can Give the feedback 
 -----------------------------------------------------------------------------------------
 Project Requirements to Configuration
-	Database: SQL
-	Language: Java
-	Server:   XAMPP
-	IDE:      Eclipse
+	    Database: SQL
+	    Language: Java
+	    Server:   XAMPP
+	    IDE:      Eclipse
  
 External Jar files 
 	RMI (Remote Method Invocation)
