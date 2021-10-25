@@ -31,8 +31,13 @@ Project Requirements to Configuration
         IDE:      Eclipse
  
 External Jar files 
-	RMI (Remote Method Invocation)
-	JavaMail API
-	mysql-connector-java-8.0.24 
-	json-20200518
-	javax.activation-1.2.0
+	
+    RMI (Remote Method Invocation)
+	
+    JavaMail API
+	
+    mysql-connector-java-8.0.24 
+	
+    json-20200518
+	
+    javax.activation-1.2.0
